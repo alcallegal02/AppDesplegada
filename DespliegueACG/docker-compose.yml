@@ -1,0 +1,4 @@
+services:
+  backend:
+    container-name: backend
+    context: .\backend
